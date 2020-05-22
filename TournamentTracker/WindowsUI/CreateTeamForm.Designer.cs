@@ -137,7 +137,7 @@
             // 
             // FirstNameValue
             // 
-            this.FirstNameValue.Location = new System.Drawing.Point(156, 45);
+            this.FirstNameValue.Location = new System.Drawing.Point(156, 39);
             this.FirstNameValue.Name = "FirstNameValue";
             this.FirstNameValue.Size = new System.Drawing.Size(200, 43);
             this.FirstNameValue.TabIndex = 10;
@@ -155,7 +155,7 @@
             // 
             // LastNameValue
             // 
-            this.LastNameValue.Location = new System.Drawing.Point(156, 96);
+            this.LastNameValue.Location = new System.Drawing.Point(156, 90);
             this.LastNameValue.Name = "LastNameValue";
             this.LastNameValue.Size = new System.Drawing.Size(200, 43);
             this.LastNameValue.TabIndex = 12;
@@ -173,7 +173,7 @@
             // 
             // CellPhoneValue
             // 
-            this.CellPhoneValue.Location = new System.Drawing.Point(155, 200);
+            this.CellPhoneValue.Location = new System.Drawing.Point(156, 194);
             this.CellPhoneValue.Name = "CellPhoneValue";
             this.CellPhoneValue.Size = new System.Drawing.Size(200, 43);
             this.CellPhoneValue.TabIndex = 16;
@@ -191,7 +191,7 @@
             // 
             // EmailValue
             // 
-            this.EmailValue.Location = new System.Drawing.Point(155, 149);
+            this.EmailValue.Location = new System.Drawing.Point(155, 143);
             this.EmailValue.Name = "EmailValue";
             this.EmailValue.Size = new System.Drawing.Size(200, 43);
             this.EmailValue.TabIndex = 14;
